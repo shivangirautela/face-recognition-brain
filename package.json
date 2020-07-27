@@ -1,6 +1,6 @@
 {
   "name": "facerecognitionbrain",
-  "homepage" : "http://myname.github.io/myapp",
+  "homepage" : "http://shivangi.github.io/facerecognitionbrain",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -13,7 +13,7 @@
     "tachyons": "^4.9.0"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "serve -s build",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
